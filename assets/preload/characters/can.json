@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-615,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance 1"
+		},
+		{
+			"offsets": [
+				-738,
+				292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance 1"
+		},
+		{
+			"offsets": [
+				-670,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance 1"
+		},
+		{
+			"offsets": [
+				-670,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-672,
+				200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "can instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bothcanmeat",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		182,
+		126
+	],
+	"camera_position": [
+		300,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
