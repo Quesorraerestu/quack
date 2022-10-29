@@ -1,0 +1,329 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "ep5",
+		"player1": "bf-yellow",
+		"player2": "can",
+		"player3": null,
+		"events": [
+			[
+				75,
+				[
+					[
+						"Play Animation",
+						"start",
+						"bf"
+					]
+				]
+			],
+			[
+				3225,
+				[
+					[
+						"Play Animation",
+						"start",
+						"gf"
+					]
+				]
+			],
+			[
+				4125,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				9525,
+				[
+					[
+						"Toggle Bf Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
+				19125,
+				[
+					[
+						"Toggle Dad Characters",
+						"true",
+						"false"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Alt Idle Animation",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				22725,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				27900,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				38325,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						"true"
+					]
+				]
+			],
+			[
+				47925,
+				[
+					[
+						"Toggle Dad Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				51525,
+				[
+					[
+						"Toggle Bf Characters",
+						"",
+						"true"
+					]
+				]
+			],
+			[
+				71925,
+				[
+					[
+						"Toggle Dad Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				72300,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86325,
+				[
+					[
+						"Toggle Bf Characters",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				106650,
+				[
+					[
+						"Flash Camera(black)",
+						"speed",
+						""
+					]
+				]
+			],
+			[
+				107546.25,
+				[
+					[
+						"Fade HealthBar In/Out",
+						"in",
+						"0.4"
+					]
+				]
+			],
+			[
+				107550,
+				[
+					[
+						"Fade In/Out",
+						"in",
+						"0.4"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				108075,
+				[
+					[
+						"Toggle Bf Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				108226.875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tinman"
+					]
+				]
+			],
+			[
+				108232.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-duckdead"
+					]
+				]
+			],
+			[
+				108236.25,
+				[
+					[
+						"Change Stage",
+						"lab",
+						"dad"
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Reset Cam Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114075,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bg"
+					]
+				]
+			],
+			[
+				115125,
+				[
+					[
+						"Flash Camera(black)",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				124275,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			],
+			[
+				124350,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				124494.375,
+				[
+					[
+						"Fade HealthBar In/Out",
+						"out",
+						"0.4"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Fade In/Out",
+						"out",
+						"0.4"
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Toggle Dad Characters",
+						"false",
+						"true"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "bf-duck",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Healthy"
+	}
+}
