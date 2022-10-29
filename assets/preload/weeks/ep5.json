@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Healthy",
+			"bothcanmeat",
+			[
+				255,
+				252,
+				69
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "kitchen",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "MAKE IT HEALTHY!",
+	"weekName": "ep 5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
